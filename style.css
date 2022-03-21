@@ -49,6 +49,10 @@ button {background-color: #3882f6;
     font-weight: bolder;
 }
 
+.pic {border-radius: 8px;
+    border: 2px solid #3882f6;
+}
+
 .text {color: #1f2937;
     font-size: 18px;
 }
