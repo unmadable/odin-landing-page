@@ -1,0 +1,86 @@
+/*Style sheet for Odin Landing Page project*/
+
+body {border: 2px solid black;
+    font-family: roboto, sans-serif;
+}
+
+.header {border: 2px solid brown;
+    background-color: #1f2937;
+}
+
+.logo {color: #f9faf8;
+    font-size: 24px;
+}
+
+.links, .description {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+ul {list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.intro {border: 2px solid purple;
+    background-color: #1f2937;
+}
+
+.name {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: bolder;    
+}
+
+button {background-color: #3882f6;
+    padding: 8px 16px;
+    border-radius: 8px;
+    margin: 10px 0px;
+    color: #e5e7eb;
+    border: 1px solid #3882f6; /*falta agregar borde blanco al segundo botón*/
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.info {border: 2px solid green;}
+
+.products {color: #1f2937;
+    font-size: 36px;
+    font-weight: bolder;
+}
+
+.text {color: #1f2937;
+    font-size: 18px;
+}
+
+.quote {border: 2px solid orangered;
+    background-color: #e5e7eb;
+}
+
+.leyend {color: #1f2937;
+font-size: 36px;
+font-style: italic;
+}
+
+.author {color: #1f2937;
+font-size: 24px;
+font-weight: bold;}
+
+.signup {border: 2px solid darkslategray;}
+
+.blueback {background-color: #3882f6;}
+
+.action1 {color: #f9faf8;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.action2 {color: #f9faf8;
+    font-size: 18px;
+}
+
+.footer {border: 2px solid darkgreen;
+    background-color: #1f2937;
+    color: #f9faf8;
+    font-size: 18px;
+}
